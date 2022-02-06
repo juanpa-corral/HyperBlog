@@ -2,9 +2,22 @@ body{
     color: #333;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 25px;
     margin: 0;
     padding: 0;
+}
+#cabecera{
+    background-color: blue;   
+    color: aliceblue;
+    font-weight: bold;
+    box-shadow: 0px 5px 30px 0px rgb(0,0,0,0.75);
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.5cm;
 }
 #container{
     width: 70%;
