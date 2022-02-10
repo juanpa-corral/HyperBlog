@@ -25,12 +25,8 @@ body{
     font-size: 0.5cm;
 }
 #container{
-<<<<<<< HEAD
-    width: 80%;
-=======
     width: 70%;
     background-color: aliceblue;
->>>>>>> header
     padding: 1em;
     text-align: left;
     border: 1px solid rgb(240, 240, 240);
