@@ -29,3 +29,10 @@ body{
 #container h1{
     font-size: 20px;
 }
+#footer{
+    text-align: center;
+    padding: 0.5cm;
+    background-color: rgb(51, 109, 109);
+    box-shadow: 0px 5px 30px 0px rgba(46, 89, 117, 0.75);
+    color: aliceblue;
+}
