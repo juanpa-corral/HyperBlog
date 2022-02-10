@@ -14,13 +14,17 @@ body{
     margin: 0;
     padding: 0.5em;
 }
+#cabecera #logo{
+    width: 40px;
+    vertical-align: middle;
+}
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.5cm;
 }
 #container{
-    width: 70%;
+    width: 80%;
     padding: 1em;
     text-align: left;
     border: 1px solid rgb(240, 240, 240);
@@ -28,4 +32,8 @@ body{
 }
 #container h1{
     font-size: 20px;
+}
+#post{
+    background: white;
+    padding: 1em;
 }
